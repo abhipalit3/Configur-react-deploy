@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/Configur-react-deploy/static/css/main.e9b72c74.css",
+    "main.js": "/Configur-react-deploy/static/js/main.9fe0f83f.js",
+    "index.html": "/Configur-react-deploy/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.e9b72c74.css",
+    "static/js/main.9fe0f83f.js"
+  ]
+}
